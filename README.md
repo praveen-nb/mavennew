@@ -1,1 +1,2 @@
 # mavennew
+printf"hello word"
